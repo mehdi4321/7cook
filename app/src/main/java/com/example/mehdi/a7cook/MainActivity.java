@@ -76,6 +76,7 @@ public class MainActivity extends AppCompatActivity {
 
                 SnapHelper snapHelper=new PagerSnapHelper();
                 snapHelper.attachToRecyclerView(recyclerView);
+                //
             }
         });
     }
